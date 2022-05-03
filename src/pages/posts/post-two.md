@@ -1,5 +1,5 @@
 ---
-title: Trobat E feta la deliberació
+title: "Trobat E feta la deliberació"
 description: "Descripció de la imatge principal"
 author: Jane Doe
 layout: ../../layouts/BlogLayout.astro
