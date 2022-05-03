@@ -1,0 +1,32 @@
+---
+// Style Imports
+import '../styles/home.css';
+// Layout Import
+import MySiteLayout from '../layouts/MySiteLayout.astro';
+// Component Imports
+import Features from '../components/home/Features.astro';
+import Hero from '../components/home/Hero.astro';
+import BlogSection from '../components/blog/BlogSection.astro';
+// You can import components from any supported Framework here!
+/* ASTRO:COMPONENT_IMPORTS */
+
+// Component Script:
+// All variables are available to use in the HTML template below.
+let title = 'My Astro Site';
+---
+<MySiteLayout>
+  <main>
+		<header>
+			<Hero />
+		</header>
+		<Features />
+		<BlogSection />
+	</main>
+</MySiteLayout>
+
+
+	
+
+
+	
+

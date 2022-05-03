@@ -1,0 +1,21 @@
+---
+// Layout Import
+import MySiteLayout from '../layouts/MySiteLayout.astro';
+// Component Imports
+import BlogSection from '../components/blog/BlogSection.astro';
+import Pagination from '../components/blog/Pagination.astro';
+---
+<MySiteLayout>
+  <main>
+		<BlogSection />
+		<Pagination />
+	</main>
+</MySiteLayout>
+
+<style>
+  .blog {
+			display: flex;
+			justify-content: space-between;
+      gap: 1.5em;
+		}
+</style>

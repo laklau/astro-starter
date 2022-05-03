@@ -1,0 +1,17 @@
+---
+// Style Imports
+import '../styles/global.css';
+// Component Imports
+import Head from '../components/Head.astro';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+---
+<html>
+  <Head/>
+  <body>
+    <Nav/>
+    <slot /> <!-- your content is injected here -->
+    <Footer/>
+  </body>
+</html>
+
