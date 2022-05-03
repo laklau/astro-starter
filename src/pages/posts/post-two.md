@@ -3,7 +3,7 @@ title: Trobat E feta la deliberació
 description: "Descripció de la imatge principal"
 author: Jane Doe
 layout: ../../layouts/BlogLayout.astro
-image: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3
+image: "/assets/images/poster02.jpg"
 ---
 
 ## La fi per què fonc instituït e. Partir de vosaltres e la mia tornada m'és.
