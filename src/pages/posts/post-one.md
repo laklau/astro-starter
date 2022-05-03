@@ -3,7 +3,7 @@ title: Gestes e històries antigues dels homens forts
 description: "Descripció de la imatge principal"
 author: Jane Doe
 layout: ../../layouts/PostLayout.astro
-image: /assets/images/poster02.jpg
+image: /assets/images/poster01.jpg
 ---
 
 ## Evident experiència mostra la debilitat de la nostra memòria sotsmetent.

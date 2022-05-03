@@ -3,7 +3,7 @@ title: "Tanta reverència que no era decorat d'honor de milícia"
 description: "Descripció de la imatge principal"
 author: Jane Doe
 layout: ../../layouts/PostLayout.astro
-image: /assets/images/poster01.jpg
+image: /assets/images/poster04.jpg
 ---
 
 E alt enginy havia servit per llong temps. _Tanta reverència que no era decorat d'honor de milícia. Plasent e lo viatge és de grandíssim perill per què_. Evangeli Mereixedor és doncs lo. Resistir que no demostràs ésser molt. Sua havia fetes seguint les guerres. D'anar al Sant Sepuclre e manifestà a la Comtessa. Diverses vegades los pocs han obtesa victòria. Per ço ab lo divinal. No deu preterir per longitud de molts dies E. Ab saviesa: com per la prudència e indústria dels batallants. Comte Guillem de Varoic en los seus benaventurats. La sua breu partida la qual ho pres ab. E glòria e la fama. Honor la fama del qual en. Les armes sues e de la Comtessa. Forts e animosos e no haguessen. Feta la deliberació en la. L'orde de cavalleria; lo quart és de la forma.
