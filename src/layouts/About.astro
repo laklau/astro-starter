@@ -1,0 +1,14 @@
+---
+// Layout Import
+import MySiteLayout from '/src/layouts/MySiteLayout.astro';
+// Component Imports
+import Team from '/src/components/about/Team.astro';
+import LogoCloud from '/src/components/about/LogoCloud.astro';
+const {content} = Astro.props;
+---
+<MySiteLayout>
+  <main>
+		<Team />
+		<LogoCloud />
+	</main>
+</MySiteLayout>
