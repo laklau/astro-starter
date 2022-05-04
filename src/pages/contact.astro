@@ -2,14 +2,12 @@
 // Layout Import
 import MySiteLayout from '../layouts/MySiteLayout.astro';
 // Component Imports
+import Header from '../components/Header.astro';
 import ContactInfo from '../components/contact/ContactInfo.astro';
-import ContactText from '../components/contact/ContactText.astro';
 ---
 <MySiteLayout>
   <main>
-		<header>
-			<ContactText />
-		</header>
+		<Header />
 		<ContactInfo />
 	</main>
 </MySiteLayout>
